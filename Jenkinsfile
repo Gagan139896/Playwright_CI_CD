@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         // Jenkins Tools mein 'NodeJS_22' naam se Node.js configured hona chahiye
-        nodejs 'NodeJS_22'
+        nodejs 'NodeJS_26'
     }
 
     environment {
